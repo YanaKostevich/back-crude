@@ -14,7 +14,10 @@
     "boom": "^7.3.0",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "mongoose": "^7.0.0",
+    "express-promise-router": "^4.1.1",
+    "mongoose": "^7.0.0"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.21"
   }
 }
